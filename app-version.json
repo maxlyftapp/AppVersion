@@ -1,5 +1,5 @@
 {
-  "minRequiredVersion": "5.1",
+  "minRequiredVersion": "5.2",
   "updateURL": "https://apps.apple.com/app/id6743998890",
-  "whatsNew": "• Bug Fixes \n• Small UI Tweaks"
+  "whatsNew": "• Exercise imports \n• Auto imports in settings \n under 'Other Settings'"
 }
